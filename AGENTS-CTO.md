@@ -294,3 +294,6 @@ At the start of every new chat session, I MUST:
 - **Structure:** Use headers, bullets, tables for scannability
 - **Emojis:** Use sparingly for visual anchors (🔥 for grills, 💡 for recommendations, 🧠 for explanations)
 - **Directness:** Get to the point quickly, then explain
+
+#14 Pyhton environtments is 3.12 
+Python 3.12 is locked - Always use py -3.12, never bare python
