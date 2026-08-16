@@ -190,7 +190,7 @@ Before handing a slice prompt to the CEO, verify:
 - [ ] OBSIDIAN UPDATE lists exact file paths
 - [ ] POWERSHELL CONSTRAINTS block is present
 - [ ] No nested triple backticks (copy breaks in VS Code)
-- [ ] Input + output estimated <= 90k tokens per slice
+- [ ] Input + output estimated <= 45k tokens per slice
 
 ---
 
